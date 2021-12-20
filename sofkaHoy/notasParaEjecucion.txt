@@ -1,0 +1,8 @@
+CONCURSO DE PREGUNTAS Y RESPUESTAS
+
+Al iniciar el programa comienza lanzando la primer pregunta del Nivel 1, seleccionar la respuesta ingresando 
+su letra correspondiente(a, b, c ó d).
+Luego de cada pregunta correcta se puede abandonar el juego ingresando "No", "NO" o "no" o apretar cualquier
+tecla y continuar jugando.
+El juego finaliza en caso de responder incorrectamente(pierde los puntos acumulados), abandonar luego de 
+responder correctamente(se retira con los puntos acumulados) o acertando las 5 preguntas, es decir, ganando el juego.
